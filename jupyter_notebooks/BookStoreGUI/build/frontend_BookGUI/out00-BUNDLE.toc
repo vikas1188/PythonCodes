@@ -1,0 +1,3 @@
+([('frontend_BookGUI',
+   '/Users/vikas/learn/python_projects/jupyter_notebooks/BookStoreGUI/dist/frontend_BookGUI',
+   'EXECUTABLE')],)
